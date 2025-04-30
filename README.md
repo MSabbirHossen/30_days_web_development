@@ -1,6 +1,3 @@
-# 30_days_web_development
-My 30-day journey to becoming a Web Developer. Daily logs, code, projects, and learning summaries
-
 # 30 Days Web Development 🚀
 
 This is my personal 30-day learning journey to become a Web Developer. I’ve followed a structured roadmap covering HTML, CSS, JavaScript, React, and completed hands-on projects along the way.
